@@ -1,5 +1,7 @@
 Cool brand new mod that let you have a cool new engine that goes 90 miles an hour.
 
+<img src="https://github.com/Jalopy-Mods/Malmo-Engine/assets/69876322/bfd3998a-049f-43b9-a816-befdf7f50eb1" width="200" />
+
 ## Install
 
 ### Ultra fast install of doom of the apocalypse
