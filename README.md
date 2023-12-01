@@ -27,3 +27,6 @@ Otherwise, you can get it in the parts store (With the latest Jaloader version).
 
 ### What do you think about the usage of alternating current in Europe?
 Alternative electricity, more like loser electricity
+
+### What the freak is a Malmö Engine?
+Totally not a Mazda one.
