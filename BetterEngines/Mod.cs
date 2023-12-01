@@ -6,19 +6,16 @@ namespace BetterEngines
 {
     public class MazdaEngine : Mod
     {
-        public override string ModID => "BetterEngines"; // The mod's ID. Try making it as unique as possible, to avoid conflicting IDs.
-        public override string ModName => "Better Engines"; // The mod's name. This is shown in the mods list. Does not need to be unique.
+        public override string ModID => "MazdaEngine"; // The mod's ID. Try making it as unique as possible, to avoid conflicting IDs.
+        public override string ModName => "Malmö Engine"; // The mod's name. This is shown in the mods list. Does not need to be unique.
         public override string ModAuthor => "MeblIkea"; // The mod's author (you). Also shown in the mods list.
-        public override string ModDescription => "For having custom engines."; // The mod's description. This is also shown in the mods list, upon clicking on "More Info".
+        public override string ModDescription => "For having a cool funky engine. " +
+                                                 "Spawn it with spawnMalmoEngine in the console." +
+                                                 "TIP: Press tab in order to open the console."; // The mod's description. This is also shown in the mods list, upon clicking on "More Info".
         public override string ModVersion => "1.0.0"; // The mod's version. Also shown in the mods list. If your mod is open-source on GitHub, make sure that you're using the same format as your release tags (for example, 1.0.0)
-        public override string GitHubLink => ""; // If your mod is open-source on GitHub, you can link it here to allow for automatic update-checking in-game. It compares the current ModVersion with the tag of the latest release (ex. 1.0.0 compared with 1.0.1)
+        public override string GitHubLink => "https://github.com/Jalopy-Mods/MalmoEngine"; // If your mod is open-source on GitHub, you can link it here to allow for automatic update-checking in-game. It compares the current ModVersion with the tag of the latest release (ex. 1.0.0 compared with 1.0.1)
         public override WhenToInit WhenToInit => WhenToInit.InGame; // When should the mod's OnEnable/Awake/Start/Update functions be called?
         public override bool UseAssets => true; // Does your mod use custom asset bundles?
-
-        public override void SettingsDeclaration() // Declare all of your per-user settings here
-        {
-            base.SettingsDeclaration();
-        }
 
         public override void CustomObjectsRegistration()
         {
@@ -42,13 +39,7 @@ namespace BetterEngines
         public override void Start()
         {
             base.Start();
-
             Console.Instance.AddCommand("spawnMalmoEngine", "Spawns the Malmö 13-Rot engine next to the player", nameof(SpawnEngine), this);
-        }
-
-        public override void Update()
-        {
-            base.Update();
         }
 
         public void SpawnEngine()
