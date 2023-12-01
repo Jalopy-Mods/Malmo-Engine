@@ -7,8 +7,8 @@
         <ProjectGuid>{22D1B617-9F1D-4901-A176-ABFD99CD7424}</ProjectGuid>
         <OutputType>Library</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
-        <RootNamespace>BetterEngines</RootNamespace>
-        <AssemblyName>BetterEngines</AssemblyName>
+        <RootNamespace>MalmoEngine</RootNamespace>
+        <AssemblyName>MalmoEngine</AssemblyName>
         <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
     </PropertyGroup>

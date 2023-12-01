@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterEngines", "BetterEngines\BetterEngines.csproj", "{22D1B617-9F1D-4901-A176-ABFD99CD7424}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MalmoEngine", "MalmoEngine\MalmoEngine.csproj", "{22D1B617-9F1D-4901-A176-ABFD99CD7424}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

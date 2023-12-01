@@ -2,7 +2,7 @@
 using JaLoader;
 using UnityEngine;
 
-namespace BetterEngines
+namespace MalmoEngine
 {
     public class MazdaEngine : Mod
     {
