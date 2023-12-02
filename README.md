@@ -1,7 +1,7 @@
 Cool brand new mod that let you have a cool new engine that goes 90 miles an hour.
 
-<img src="https://github.com/Jalopy-Mods/Malmo-Engine/assets/69876322/bfd3998a-049f-43b9-a816-befdf7f50eb1" width="200" />
-See it in vid [here](https://discord.com/channels/462907081255550986/1099002189814452344/1180224470179401749)
+<img src="https://github.com/Jalopy-Mods/Malmo-Engine/assets/69876322/bfd3998a-049f-43b9-a816-befdf7f50eb1" width="200" /><br>
+See it in vid [here](https://www.youtube.com/watch?v=efp19oabRMQ)
 
 ## Install
 
