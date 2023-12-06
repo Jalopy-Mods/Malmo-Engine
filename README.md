@@ -18,8 +18,8 @@ The whole thing is open-source. You can just get the entire solution in your fav
 ## Usage
 
 ### How 2 use it?
-Just open the console with `TAB`, then type `spawnMalmoEngine` in the console, then type `repairkit` in order to repair it.<br>
-~~Otherwise, you can get it in the parts store (With the latest Jaloader version).~~
+Just open the console with `TAB`, then type `spawnMalmoEngine` in the console.
+Otherwise, you can get it in the parts store (With the latest Jaloader version).
 
 ## Other
 
